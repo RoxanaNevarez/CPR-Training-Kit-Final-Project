@@ -1,4 +1,4 @@
-# RGB LED Code for CPR Compression Training Kit
+# RGB LED Code for CPR Compression Training Kit + Force Sensor Readings on OLED
 # Code Credit: Yovani Coyazo
 # Adjustments: Roxana Nevarez
 import time
@@ -90,3 +90,4 @@ while True:
     if not button.value:
         countdown(3)
         beep_loop(18)
+
