@@ -12,5 +12,7 @@ Materials Used:
 * Round force sensitive resistor (FSR)
 * RGB LED and single-color LED lights
 
-## Design 1: 3 LEDS + Blank Display During Operation
+## Design 1: 3 LEDs + Blank Display During Operation
 <img width="3000" height="1761" alt="Image" src="https://github.com/user-attachments/assets/1650a8b8-5edb-4b25-9f7a-2bff4773d626" />
+
+## Design 2: RGB LED + Force Value Display During Operation
