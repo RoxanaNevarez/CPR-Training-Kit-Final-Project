@@ -15,7 +15,7 @@ Materials Used:
 * 10k ohm resistor
 
 ## Design 1: 3 LEDs + Blank Display During Operation
-<img width="3000" height="1758" alt="Image" src="https://github.com/user-attachments/assets/be0175aa-745b-4835-9745-0076f8ff19aa" />
+<img width="3000" height="1782" alt="Image" src="https://github.com/user-attachments/assets/baa24cd4-60f5-43d0-b5d4-41ea3a8649e8" />
 
 ## Design 2: RGB LED + Force Value Display During Operation
 <img width="3000" height="1894" alt="Image" src="https://github.com/user-attachments/assets/9accc03e-01f0-4408-a1fc-54ff35ab44ab" />
