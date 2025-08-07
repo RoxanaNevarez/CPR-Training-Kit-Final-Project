@@ -1,4 +1,5 @@
 # CPR Compression Training Kit Using 3 LEDs - No Force Value Display on OLED
+# Collaboration with: Thejo Tattala, Matthew Hwang, Yovani Coyazo
 import time
 import board
 import digitalio
@@ -116,3 +117,4 @@ while True:
         L3.value = False
 
     time.sleep(0.01)  # short CPU delay
+
