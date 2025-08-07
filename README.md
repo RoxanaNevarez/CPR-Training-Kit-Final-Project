@@ -18,4 +18,4 @@ Materials Used:
 <img width="3000" height="1782" alt="Image" src="https://github.com/user-attachments/assets/baa24cd4-60f5-43d0-b5d4-41ea3a8649e8" />
 
 ## Design 2: RGB LED + Force Value Display During Operation
-<img width="3000" height="1894" alt="Image" src="https://github.com/user-attachments/assets/9accc03e-01f0-4408-a1fc-54ff35ab44ab" />
+<img width="3000" height="1909" alt="Image" src="https://github.com/user-attachments/assets/c0d970ec-c5c8-4798-baca-81f71af05680" />
